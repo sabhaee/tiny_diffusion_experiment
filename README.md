@@ -6,6 +6,7 @@ For experimenting with diffusion models and their potentials in learing the unde
 
 The training process involves presenting the diffusion model with a dataset of maze images, encoding the maze information into the model's parameters. After training, the model can be used to generate new maze image sample. By evaluating the generated images, one can assess whether the model has successfully learned the distribution of mazes with continuous paths, as evidenced by the coherent generation of paths from one side to the exit on the other side. This experiment helps study the potential of diffusion models in understanding and reproducing intricate spatial structures within images. 
 
+![Sample Maze](https://github.com/sabhaee/tiny_diffusion_experiment/maze.png)
 ## Project Structure
 
 The project structure is organized as follows:
